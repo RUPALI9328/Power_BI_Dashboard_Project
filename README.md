@@ -1,4 +1,4 @@
-# Power_BI_Dashboard_Project
+# Power_BI_Project-1
 
 An HR Analytics Dashboard showes various statistics about employees. Key highlights include:
 
